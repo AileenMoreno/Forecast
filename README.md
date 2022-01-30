@@ -7,6 +7,20 @@ It all started with an interview - Nov 2021
 * Deployment Target iOS 13.0
 * API https://openweathermap.org/api
 
+## What things did I use?
+
+- Clean Architecture (VIP)
+- UIViewController
+- UIView, UIImageView, UILabel
+- UITableView, UIPageViewController
+- UIActivityIndicator
+- UIStackView
+- Constraints/Autolayout
+- Delegation, Protocols
+- Codeable
+- Unit-Test
+- Mocks
+
 ## Screenshots
 
 | Home | Pin | Day | Night | Error |
